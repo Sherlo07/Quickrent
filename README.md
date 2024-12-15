@@ -52,7 +52,7 @@ The app will be accessible at [http://localhost:3000](http://localhost:3000).
 
 If the project is deployed, include the link here:
 
-**Live Website**: [QuickRent](https://your-deployment-link.com)
+**Live Website**: [QuickRent](https://quickrent-jet.vercel.app/)
 
 ---
 
@@ -106,7 +106,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ---
 
-
----
 
 Made with ❤️ by **Irfan**
